@@ -3,4 +3,4 @@ This organization houses the code and CAD files for the Magic Hands system devel
 
 
 
-Guide here: https://docs.google.com/document/d/17hR1e6_-fH7YOQabk_YauVvLQVym1TYzoBIFlc4_Mx4/edit?usp=sharing
+[Assembly guide for the parts](https://docs.google.com/document/d/17hR1e6_-fH7YOQabk_YauVvLQVym1TYzoBIFlc4_Mx4/edit?usp=sharing)
